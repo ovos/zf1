@@ -1,3 +1,11 @@
+This is a fork of Zend Framework 1 made after it's reached its EOL.
+
+It contains some fixes which haven't made their way into zf1 official repo.
+- Zend_Date::setTime fix for DST change zendframework/zf1#682
+
+---
+
+
 ![Logo](http://framework.zend.com/images/logos/ZendFramework-logo.png)
 
 > ## End-of-Life occurs 28 Sep 2016
